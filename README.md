@@ -1,2 +1,2 @@
 # first-repo
-i want to learn about this
+i want to learn about gitHub
